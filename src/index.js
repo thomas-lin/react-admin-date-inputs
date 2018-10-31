@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { addField, FieldTitle } from 'ra-core';
+import { addField, FieldTitle } from 'react-admin';
 import { DatePicker, TimePicker, DateTimePicker } from 'material-ui-pickers';
 import DateFnsUtils from 'material-ui-pickers/utils/date-fns-utils';
 import MuiPickersUtilsProvider from 'material-ui-pickers/utils/MuiPickersUtilsProvider';
